@@ -1,0 +1,15 @@
+{
+  "name": "simple-binary-consume",
+  "version": "0.0.1",
+  "description": "Consume simple binary stream",
+  "keywords": [
+    "simple stream",
+    "consume"
+  ],
+  "author": "Eldar Gabdullin <eldargab@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eldargab/simple-binary-consume"
+  },
+  "license": "MIT"
+}
